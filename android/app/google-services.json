@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "98513131172",
+    "project_id": "apexmsenscalc",
+    "storage_bucket": "apexmsenscalc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98513131172:android:eb5b6895f69ad4fa87b831",
+        "android_client_info": {
+          "package_name": "com.strsprojekt.apexmsenscalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98513131172-m68mofrdiqiu9l1l65bbvimejmvhi9s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfteyaf9kAqbqjRS0H9GAusqNTJufP0rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98513131172-m68mofrdiqiu9l1l65bbvimejmvhi9s7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98513131172-50uamteuv8alm7qv9a5u2dghi3n9ebn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.strsprojekt.apexmsenscalc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
